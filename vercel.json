@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/the_aura_campaign.html" }
+  ]
+}
